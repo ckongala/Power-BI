@@ -1,5 +1,3 @@
-Let me simplify this and provide real-world examples to make it easier to understand.
-
 ### **Power BI’s Data Connections:**
 Power BI makes it easy to connect to data from almost any source. Whether it's files, databases, or online services, Power BI has a huge library of connectors to access data.
 
